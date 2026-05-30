@@ -1,0 +1,8 @@
+Dia,Foco Principal,Conteúdos,Exercícios,Plataformas,Objetivo
+Segunda-feira,"STL + Implementação","vector; pair; sort; string; loops; complexidade","5-10 problemas fáceis","Beecrowd; CSES","Velocidade de implementação"
+Terça-feira,"Estruturas de Dados","stack; queue; deque; set; map","4-6 problemas","Beecrowd; CSES","Dominar STL sem consultar"
+Quarta-feira,"Algoritmos Clássicos","greedy; prefix sum; two pointers; ordenação","4-6 problemas médios","Beecrowd; CSES","Reconhecimento de padrões"
+Quinta-feira,"Matemática + Binary Search","gcd; lcm; primos; sieve; bitwise; binary search","4-6 problemas","Beecrowd; CSES","Raciocínio algorítmico"
+Sexta-feira,"Grafos","BFS; DFS; connected components; shortest path","4-5 problemas","CSES; Codeforces","Modelagem de grafos"
+Sábado,"Contest Day","Contest virtual; estratégia; revisão de editorial","1 contest completo","Codeforces; AtCoder; Maratona SBC","Resistência mental e estratégia"
+Domingo,"Revisão + Organização","Refazer problemas; revisar erros; GitHub; anotações","2-4 revisões","GitHub; Notion","Consolidar aprendizado"
